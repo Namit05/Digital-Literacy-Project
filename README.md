@@ -19,7 +19,7 @@ This project is based on developing digital literacy skills required for student
 Created a one-page infographic using Canva to explain digital literacy, useful tools, and safe internet practices in a simple and visually appealing way.
 
 ### 🔹 Task 2 – Digital Portfolio
-Set up professional profiles on GitHub, LinkedIn, and Kaggle. Added basic academic details and created a GitHub profile README.
+Set up professional profiles on GitHub, LinkedIn, and Stack Overflow. Added basic academic details and created a GitHub profile README.
 
 ### 🔹 Task 3 – Platforms Exploration
 Solved a beginner coding problem on HackerRank and created a Google Form quiz to understand collaboration and data collection tools.
